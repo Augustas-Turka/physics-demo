@@ -12,9 +12,9 @@ Currently the project is in the first stages of development and planning, and is
 
 ## Roadmap
 
-- [ ] Decide on tech stack
-    - [ ] Physics-implementing language
-    - [ ] Rendering software
+- [x] Decide on tech stack
+    - [x] Physics-implementing language - C
+    - [x] Rendering software - SDL3
 - [ ] Research related projects
 - [ ] Implement "hello-world" level of project, utilising all picked technologies
 - [ ] Define roadmap and milestones
